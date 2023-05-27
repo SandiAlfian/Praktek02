@@ -7,5 +7,7 @@ public class RectangleAksi {
         rl.Lebar = 3;
         
         rl.cetakInfo();
+        
+        System.out.println("Luas Rectangle = " + rl.hitungLuas());
     }
 }
