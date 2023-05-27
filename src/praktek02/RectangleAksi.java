@@ -6,5 +6,6 @@ public class RectangleAksi {
         rl.Panjang = 9;
         rl.Lebar = 3;
         
+        rl.cetakInfo();
     }
 }
